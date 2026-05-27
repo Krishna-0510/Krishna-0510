@@ -12,7 +12,7 @@
 public class Krishna {
     String name     = "Krishna Prajapati";
     String degree   = "MCA '27 @ VIT Bhopal";
-    String[] stack  = {"Java", "Python", "ASP.NET (VB)", "PHP", "MySQL", "SQL Server"};
+    String[] stack  = {"Java", "Python", "ASP.NET (VB)", "PHP", "Next.js", "MySQL", "SQL Server"};
     String focus    = "Building real-world, full-stack applications";
     String goal     = "Placement-ready developer | Open to internships";
 }
@@ -26,13 +26,15 @@ public class Krishna {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -43,10 +45,13 @@ public class Krishna {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🏠 GruhSeva — Home Services](https://github.com/Krishna-0510/GruhSeva-HomeServices-PHP) | Full-stack home service booking platform with user auth and modular service management | PHP · MySQL |
-| [🚗 Cartivate — Car Rental](https://github.com/Krishna-0510/Cartivate-CarRental-ASP-VB) | Fleet and reservation management system with full CRUD operations | ASP.NET · VB · MySQL |
-| [📅 EventManagement](https://github.com/Krishna-0510/EventManagement-ASP-SQLServer) | Event scheduling system with dynamic Chart.js analytics dashboard | ASP.NET · SQL Server |
+| [🧩 Personal Project](https://github.com/Krishna-0510/personal-project) | Full-stack app with separate client, server & admin panel — real-world multi-role architecture | React · Node.js · JavaScript |
+| [🌐 Portfolio Website](https://github.com/Krishna-0510/krishna-portfolio) | Personal developer portfolio showcasing projects, skills, and contact info | HTML · CSS · JS |
+| [🎓 College Discovery](https://github.com/Krishna-0510/college-discovery1) | College search and discovery platform built with modern full-stack technologies | Next.js · TypeScript · Prisma |
 | [💬 Multiuser Chatbot](https://github.com/Krishna-0510/Multiuser-ObjectChatbot-Java) | Real-time multi-user chat application using Java Sockets and JDBC | Java · JDK 21 · JDBC |
+| [📅 Event Management](https://github.com/Krishna-0510/EventManagement-ASP-SQLServer) | Event scheduling system with dynamic Chart.js analytics dashboard | ASP.NET · VB · SQL Server |
+| [🚗 Cartivate — Car Rental](https://github.com/Krishna-0510/Cartivate-CarRental-ASP-VB) | Fleet and reservation management system with full CRUD operations | ASP.NET · VB · MySQL |
+| [🏠 GruhSeva — Home Services](https://github.com/Krishna-0510/GruhSeva-HomeServices-PHP) | Full-stack home service booking platform with user auth and modular service management | PHP · MySQL |
 
 ---
 
@@ -71,7 +76,7 @@ public class Krishna {
 ### 🎯 What I'm Currently Doing
 
 - 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027)
-- 💻 Building full-stack projects with **Java, ASP.NET, and PHP**
+- 💻 Building full-stack projects across **Java, ASP.NET, PHP, and Next.js**
 - 📚 Strengthening **DSA in Java** for placements
 - 🔍 Actively looking for **internships and placement opportunities**
 
