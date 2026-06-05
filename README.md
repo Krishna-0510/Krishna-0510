@@ -67,8 +67,8 @@ public class Krishna {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-0510&theme=tokyonight&hide_border=true" width="60%"/>
-
+<img src="https://api.githubtrends.io/user/svg/Krishna-0510/langs?time_range=one_year&theme=dark" />
+<img src="https://api.githubtrends.io/user/svg/Krishna-0510/repos?time_range=one_year&theme=dark" />
 </div>
 
 ---
