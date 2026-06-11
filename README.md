@@ -11,7 +11,7 @@
 ```java
 public class Krishna {
     String name     = "Krishna Prajapati";
-    String degree   = "MCA '27 @ VIT Bhopal  |  BCA CGPA: 9.35";
+    String degree   = "MCA '27 @ VIT Bhopal  |  BCA CGPA: 9.26";
     String[] stack  = {"Java", "Python", "Node.js", "React", "ASP.NET", "PHP", "Next.js"};
     String focus    = "Shipping real production apps — from architecture to deployment";
     String goal     = "Placement-ready | Open to internships";
