@@ -10,7 +10,7 @@
 <tr>
 <td width="220" align="center" valign="top">
 
-<img src="profile-sketch.png" width="200" alt="Krishna Prajapati"/>
+<img src="profile-avatar.png" width="200" alt="Krishna Prajapati"/>
 
 <br><br>
 
@@ -38,6 +38,16 @@ public class Krishna {
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="profile-avatar.png" width="150" alt="Krishna Prajapati"/>
+&nbsp;&nbsp;&nbsp;
+<img src="profile-sketch.png" width="150" alt="Krishna Prajapati sketch"/>
+
+</div>
 
 ---
 
@@ -113,7 +123,38 @@ public class Krishna {
 
 </div>
 
-> Animated snake needs a one-time GitHub Action setup — see the note at the bottom of this file.
+> **⚙️ One-time setup needed** — this image will stay broken until you add a GitHub Action that generates it:
+> 1. In this repo, go to **Add file → Create new file**.
+> 2. Name it exactly `.github/workflows/snake.yml` (the folders are created automatically as you type the slashes).
+> 3. Paste this in:
+> ```yaml
+> name: generate snake
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch: {}
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Krishna-0510
+>           outputs: dist/github-contribution-grid-snake.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> 4. Commit the file.
+> 5. Go to the **Actions** tab → click **generate snake** on the left → **Run workflow** (this triggers it the first time instead of waiting for the schedule).
+> 6. Once it finishes (~1 min), it creates an `output` branch with the SVG, and the image above will start working — refresh the page.
+>
+> If you'd rather skip this entirely, just delete this "🐍 Contribution Snake" section from the README — nothing else depends on it.
 
 ---
 
