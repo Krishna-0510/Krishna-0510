@@ -4,9 +4,26 @@
 
 </div>
 
----
+<br>
+
+<table>
+<tr>
+<td width="220" align="center" valign="top">
+
+<img src="assets/profile-avatar.png" width="200" alt="Krishna Prajapati"/>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-prajapati-781481343/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Krishna-0510)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kp602552@gmail.com)
+
+</td>
+<td valign="top">
 
 ### 👋 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9EF7&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;MCA+%2727+%40+VIT+Bhopal;Building+MERN+%2B+React+Native+Apps;Exploring+Agentic+AI+%2B+RAG+Pipelines;Placement-Ready+%7C+Open+to+Internships" alt="Typing SVG" />
 
 ```java
 public class Krishna {
@@ -17,6 +34,10 @@ public class Krishna {
     String goal     = "Placement-ready | Open to internships";
 }
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,6 +97,24 @@ public class Krishna {
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Krishna-0510&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Krishna-0510/Krishna-0510/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation"/>
+
+</div>
+
+> Animated snake needs a one-time GitHub Action setup — see the note at the bottom of this file.
+
 ---
 
 ### 🎯 What I'm Currently Doing
@@ -96,6 +135,8 @@ public class Krishna {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://krishna-portfolio-zeta-neon.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna-0510)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kp602552@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Krishna-0510&label=Profile%20Views&color=2c5364&style=flat" alt="profile views"/>
 
 </div>
 
