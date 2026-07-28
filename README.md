@@ -10,7 +10,7 @@
 <tr>
 <td width="220" align="center" valign="top">
 
-<img src="profile-avatar.png" width="200" alt="Krishna Prajapati"/>
+<img src="profile-sketch.png" width="200" alt="Krishna Prajapati"/>
 
 <br><br>
 
