@@ -2,24 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Prajapati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MCA%2727%20@%20VIT%20Bhopal&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
-
 <br>
-
-<table>
-<tr>
-<td width="220" align="center" valign="top">
-
-<img src="profile-avatar.png" width="200" alt="Krishna Prajapati"/>
-
-<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-prajapati-781481343/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Krishna-0510)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://krishna-portfolio-zeta-neon.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kp602552@gmail.com)
 
-</td>
-<td valign="top">
+</div>
+
+<br>
 
 ### 👋 About Me
 
@@ -34,20 +26,6 @@ public class Krishna {
     String goal     = "Placement-ready | Open to internships";
 }
 ```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="profile-avatar.png" width="150" alt="Krishna Prajapati"/>
-&nbsp;&nbsp;&nbsp;
-<img src="profile-sketch.png" width="150" alt="Krishna Prajapati sketch"/>
-
-</div>
 
 ---
 
@@ -79,14 +57,14 @@ public class Krishna {
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
+|---|---|---|
 | [🏪 E-Commerce Store WebApp](https://github.com/Krishna-0510/personal-project) | Full production grocery app — React customer web app, React Native admin mobile app, Node.js/Express REST API, MongoDB Atlas with 57 products. Features Firebase Google auth, custom OTP + JWT + bcrypt admin auth, TOTP 2FA, and Cloudinary image management | React · Vite · Tailwind · Node.js · Express · MongoDB · Firebase · JWT · React Native · Expo |
-| [🧠 MindWatch — AI Mental Health System](https://github.com/Krishna-0510/MindWatch-Prediction) | Agentic AI chatbot with full RAG pipeline — LangChain + LangGraph + OpenAI API + FAISS vector DB. TensorFlow neural net for passive psychological analysis. FastAPI backend with <200ms response time | Python · FastAPI · LangChain · LangGraph · OpenAI · RAG · FAISS · TensorFlow · Firebase |
+| [🧠 MindWatch — AI Mental Health System](https://github.com/Krishna-0510/MindWatch-Prediction) | Agentic AI chatbot with a full RAG pipeline — LangChain + LangGraph + OpenAI API + FAISS vector DB. TensorFlow neural net for passive psychological analysis. FastAPI backend with <200ms response time | Python · FastAPI · LangChain · LangGraph · OpenAI · RAG · FAISS · TensorFlow · Firebase |
 | [🌐 Personal Portfolio](https://github.com/Krishna-0510/krishna-portfolio) | Responsive developer portfolio deployed on Vercel with project showcase, resume download, and contact links | HTML · CSS · JS · Vercel |
-| [🎓 College Discovery](https://github.com/Krishna-0510/college-discovery1) | College search and discovery platform with Prisma ORM and modern full-stack architecture | Next.js · TypeScript · Prisma · Tailwind |
+| [🎓 College Discovery](https://github.com/Krishna-0510/college-discovery1) | College search and discovery platform with Prisma ORM and a modern full-stack architecture | Next.js · TypeScript · Prisma · Tailwind |
 | [💬 Multiuser Chatbot](https://github.com/Krishna-0510/Multiuser-ObjectChatbot-Java) | Multi-client TCP socket server with Java multithreading — 20+ simultaneous users at <50ms latency. JDBC + MySQL for persistent message storage | Java JDK 21 · Sockets · Multithreading · JDBC · MySQL · Swing |
 | [📅 Event Management System](https://github.com/Krishna-0510/EventManagement-ASP-SQLServer) | Full-stack event platform — admin dashboard, booking lifecycle, financial reporting, SMTP email automation cutting manual follow-ups by 80% | ASP.NET · C# · SQL Server · JavaScript · Chart.js · SMTP |
-| [🚗 Cartivate — Car Rental](https://github.com/Krishna-0510/Cartivate-CarRental-ASP-VB) | Fleet and reservation management with Crystal Reports, AJAX-driven UI, and analytics dashboard | ASP.NET · VB · MySQL · AJAX · Crystal Reports |
+| [🚗 Cartivate — Car Rental](https://github.com/Krishna-0510/Cartivate-CarRental-ASP-VB) | Fleet and reservation management with Crystal Reports, AJAX-driven UI, and an analytics dashboard | ASP.NET · VB · MySQL · AJAX · Crystal Reports |
 | [🏠 GruhSeva — Home Services](https://github.com/Krishna-0510/GruhSeva-HomeServices-PHP) | Home service booking platform with customer and admin dashboards, real-time booking, and provider allocation | PHP · MySQL |
 
 ---
@@ -115,49 +93,6 @@ public class Krishna {
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Krishna-0510/Krishna-0510/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation"/>
-
-</div>
-
-> **⚙️ One-time setup needed** — this image will stay broken until you add a GitHub Action that generates it:
-> 1. In this repo, go to **Add file → Create new file**.
-> 2. Name it exactly `.github/workflows/snake.yml` (the folders are created automatically as you type the slashes).
-> 3. Paste this in:
-> ```yaml
-> name: generate snake
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch: {}
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Krishna-0510
->           outputs: dist/github-contribution-grid-snake.svg
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 4. Commit the file.
-> 5. Go to the **Actions** tab → click **generate snake** on the left → **Run workflow** (this triggers it the first time instead of waiting for the schedule).
-> 6. Once it finishes (~1 min), it creates an `output` branch with the SVG, and the image above will start working — refresh the page.
->
-> If you'd rather skip this entirely, just delete this "🐍 Contribution Snake" section from the README — nothing else depends on it.
-
----
-
 ### 🎯 What I'm Currently Doing
 
 - 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.35
@@ -168,7 +103,7 @@ public class Krishna {
 
 ---
 
-### 🤝 Let's Connect 
+### 🤝 Let's Connect
 
 <div align="center">
 
@@ -180,8 +115,6 @@ public class Krishna {
 <img src="https://komarev.com/ghpvc/?username=Krishna-0510&label=Profile%20Views&color=2c5364&style=flat" alt="profile views"/>
 
 </div>
-
----
 
 <div align="center">
 
