@@ -79,6 +79,66 @@ public class Krishna {
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Krishna-0510/Krishna-0510/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation"/>
+
+</div>
+
+<details>
+<summary><strong>⚙️ This animation needs a one-time setup — click to see how</strong></summary>
+
+<br>
+
+The image above will show as broken until a GitHub Action generates it for your account. It only needs to be done once:
+
+1. In this repo, go to **Add file → Create new file**.
+2. Name it exactly `.github/workflows/snake.yml` (typing the `/` automatically creates the `.github/workflows` folders).
+3. Paste in the following:
+
+```yaml
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Krishna-0510
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+4. Commit the file directly to `main`.
+5. Go to the **Actions** tab → click **generate snake** in the left sidebar → **Run workflow** (this generates it immediately instead of waiting for the 6-hour schedule).
+6. Wait about a minute. The workflow creates an `output` branch containing `github-contribution-grid-snake.svg`, and the image above will start rendering — refresh this page once it's done.
+
+**If it still doesn't show up:** go to **Settings → Actions → General** in your repo and make sure "Workflow permissions" is set to **Read and write permissions**, then re-run the workflow.
+
+If you'd rather not deal with this, you can delete this whole "🐍 Contribution Snake" section — nothing else in the README depends on it.
+
+</details>
+
+---
+
 ### 🎯 What I'm Currently Doing
 
 - 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.35
