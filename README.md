@@ -56,16 +56,100 @@ public class Krishna {
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [🏪 E-Commerce Store WebApp](https://github.com/Krishna-0510/personal-project) | Full production grocery app — React customer web app, React Native admin mobile app, Node.js/Express REST API, MongoDB Atlas with 57 products. Features Firebase Google auth, custom OTP + JWT + bcrypt admin auth, TOTP 2FA, and Cloudinary image management | React · Vite · Tailwind · Node.js · Express · MongoDB · Firebase · JWT · React Native · Expo |
-| [🧠 MindWatch — AI Mental Health System](https://github.com/Krishna-0510/MindWatch-Prediction) | Agentic AI chatbot with a full RAG pipeline — LangChain + LangGraph + OpenAI API + FAISS vector DB. TensorFlow neural net for passive psychological analysis. FastAPI backend with <200ms response time | Python · FastAPI · LangChain · LangGraph · OpenAI · RAG · FAISS · TensorFlow · Firebase |
-| [🌐 Personal Portfolio](https://github.com/Krishna-0510/krishna-portfolio) | Responsive developer portfolio deployed on Vercel with project showcase, resume download, and contact links | HTML · CSS · JS · Vercel |
-| [🎓 College Discovery](https://github.com/Krishna-0510/college-discovery1) | College search and discovery platform with Prisma ORM and a modern full-stack architecture | Next.js · TypeScript · Prisma · Tailwind |
-| [💬 Multiuser Chatbot](https://github.com/Krishna-0510/Multiuser-ObjectChatbot-Java) | Multi-client TCP socket server with Java multithreading — 20+ simultaneous users at <50ms latency. JDBC + MySQL for persistent message storage | Java JDK 21 · Sockets · Multithreading · JDBC · MySQL · Swing |
-| [📅 Event Management System](https://github.com/Krishna-0510/EventManagement-ASP-SQLServer) | Full-stack event platform — admin dashboard, booking lifecycle, financial reporting, SMTP email automation cutting manual follow-ups by 80% | ASP.NET · C# · SQL Server · JavaScript · Chart.js · SMTP |
-| [🚗 Cartivate — Car Rental](https://github.com/Krishna-0510/Cartivate-CarRental-ASP-VB) | Fleet and reservation management with Crystal Reports, AJAX-driven UI, and an analytics dashboard | ASP.NET · VB · MySQL · AJAX · Crystal Reports |
-| [🏠 GruhSeva — Home Services](https://github.com/Krishna-0510/GruhSeva-HomeServices-PHP) | Home service booking platform with customer and admin dashboards, real-time booking, and provider allocation | PHP · MySQL |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏪 E-Commerce Store WebApp
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=personal-project&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/personal-project)
+
+Full production grocery app — React customer web app, React Native admin mobile app, Node.js/Express REST API, and MongoDB Atlas with 57 products. Ships Firebase Google auth, custom OTP + JWT + bcrypt admin auth, TOTP 2FA, and Cloudinary image management.
+
+`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `Firebase` `JWT` `React Native` `Expo`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 MindWatch — AI Mental Health System
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=MindWatch-Prediction&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/MindWatch-Prediction)
+
+Agentic AI chatbot with a full RAG pipeline — LangChain + LangGraph + OpenAI API + FAISS vector DB. Pairs a TensorFlow neural net for passive psychological analysis with a FastAPI backend that responds in under 200ms.
+
+`Python` `FastAPI` `LangChain` `LangGraph` `OpenAI` `RAG` `FAISS` `TensorFlow` `Firebase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📅 Event Management System
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=EventManagement-ASP-SQLServer&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/EventManagement-ASP-SQLServer)
+
+Full-stack event platform with an admin dashboard, complete booking lifecycle, and financial reporting. SMTP email automation cuts manual follow-ups by 80%.
+
+`ASP.NET` `C#` `SQL Server` `JavaScript` `Chart.js` `SMTP`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚗 Cartivate — Car Rental
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=Cartivate-CarRental-ASP-VB&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/Cartivate-CarRental-ASP-VB)
+
+Fleet and reservation management system with Crystal Reports, an AJAX-driven UI, and a live analytics dashboard.
+
+`ASP.NET` `VB` `MySQL` `AJAX` `Crystal Reports`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 Multiuser Chatbot
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=Multiuser-ObjectChatbot-Java&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/Multiuser-ObjectChatbot-Java)
+
+Multi-client TCP socket server built on Java multithreading, handling 20+ simultaneous users at under 50ms latency. Uses JDBC + MySQL for persistent message storage.
+
+`Java JDK 21` `Sockets` `Multithreading` `JDBC` `MySQL` `Swing`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏠 GruhSeva — Home Services
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=GruhSeva-HomeServices-PHP&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/GruhSeva-HomeServices-PHP)
+
+Home service booking platform with separate customer and admin dashboards, real-time booking, and automatic provider allocation.
+
+`PHP` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 College Discovery
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=college-discovery1&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/college-discovery1)
+
+College search and discovery platform built on a modern full-stack architecture with Prisma ORM.
+
+`Next.js` `TypeScript` `Prisma` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Personal Portfolio
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-0510&repo=krishna-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Krishna-0510/krishna-portfolio)
+
+Responsive developer portfolio deployed on Vercel, featuring a project showcase, resume download, and contact links.
+
+`HTML` `CSS` `JS` `Vercel`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -141,7 +225,7 @@ If you'd rather not deal with this, you can delete this whole "🐍 Contribution
 
 ### 🎯 What I'm Currently Doing
 
-- 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.26
+- 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.35
 - 🏪 Building **Krishna Kirana Stores** — a real production MERN + React Native grocery app
 - 🤖 Working on **MindWatch** — Agentic AI with RAG, LangChain, and TensorFlow
 - 📚 Strengthening **DSA in Java** and **system design** for placements
