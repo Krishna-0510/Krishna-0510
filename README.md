@@ -141,7 +141,7 @@ If you'd rather not deal with this, you can delete this whole "🐍 Contribution
 
 ### 🎯 What I'm Currently Doing
 
-- 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.35
+- 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.26
 - 🏪 Building **Krishna Kirana Stores** — a real production MERN + React Native grocery app
 - 🤖 Working on **MindWatch** — Agentic AI with RAG, LangChain, and TensorFlow
 - 📚 Strengthening **DSA in Java** and **system design** for placements
