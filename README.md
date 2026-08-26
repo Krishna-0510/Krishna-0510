@@ -187,6 +187,16 @@ Responsive developer portfolio deployed on Vercel, featuring a project showcase,
 
 ---
 
+### 💡 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/5umI5BzB0l?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/u/5umI5BzB0l/)
+
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
