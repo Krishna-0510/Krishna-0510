@@ -212,6 +212,7 @@ Responsive developer portfolio deployed on Vercel, featuring a project showcase,
 ### 🎯 What I'm Currently Doing
 
 - 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.35
+- ✅ Cleared **TCS NQT** — qualified for **TCS Prime**
 - 🏪 Building **Krishna Kirana Stores** — a real production MERN + React Native grocery app
 - 🤖 Working on **MindWatch** — Agentic AI with RAG, LangChain, and TensorFlow
 - 📚 Strengthening **DSA in C++** and **system design** for placements
