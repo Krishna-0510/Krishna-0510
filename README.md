@@ -191,6 +191,12 @@ Responsive developer portfolio deployed on Vercel, featuring a project showcase,
 
 <div align="center">
 
+<a href="https://leetcode.com/u/5umI5BzB0l/">
+  <img src="https://leetcode-stats-card-eight.vercel.app/api?username=your_actual_username&theme=dark&border=false" alt="LeetCode Stats"/>
+</a>
+
+<br/>
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/5umI5BzB0l?theme=dark&font=baloo2&ext=heatmap)](https://leetcode.com/u/5umI5BzB0l/)
 
 </div>
