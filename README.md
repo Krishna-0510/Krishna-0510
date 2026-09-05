@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Prajapati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MCA%2727%20@%20VIT%20Bhopal&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Prajapati&SfontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MCA%2727%20@%20VIT%20Bhopal&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -214,7 +214,7 @@ Responsive developer portfolio deployed on Vercel, featuring a project showcase,
 - 🎓 Pursuing **MCA at VIT Bhopal** (Batch of 2027) — BCA CGPA: 9.35
 - 🏪 Building **Krishna Kirana Stores** — a real production MERN + React Native grocery app
 - 🤖 Working on **MindWatch** — Agentic AI with RAG, LangChain, and TensorFlow
-- 📚 Strengthening **DSA in Java** and **system design** for placements
+- 📚 Strengthening **DSA in C++** and **system design** for placements
 - 🔍 Actively looking for **internships and placement opportunities**
 
 ---
